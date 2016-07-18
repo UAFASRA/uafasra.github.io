@@ -1,1 +1,7 @@
-{"name":"Alaska Summer Research Academy","tagline":"The github organization site for the UAF Alaska Summer Research Academy.","body":"### Alaska Summer Research Academy\r\nWelcome to the Github placeholder website for the Alaska Summer Research Academy!","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+  "name": "Alaska Summer Research Academy",
+  "tagline": "The github organization site for the UAF Alaska Summer Research Academy.",
+  "body": "### Alaska Summer Research Academy\r\nWelcome to the Github placeholder website for the Alaska Summer Research Academy!\r\n\r\n# ASRA 2016\r\n[Website](https://uafasra.github.io/2016module_web-dev/)",
+  "google": "",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
